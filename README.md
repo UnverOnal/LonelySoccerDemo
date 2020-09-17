@@ -3,7 +3,7 @@
 Unity version = 2019.2.17f1
 
 Playing the game...
-  - The game can be played both Android platform and Unity Editor.
+  - The game can be played on both Android platform and Unity Editor.
   - There are two movable objects in the game : "aiming line" and a "brown colored soccer player".
   - Origin coordinates of the aiming line equals balls starting point.
   - Just bring your mouse cursor/finger to their near places(consider starting position of the ball as starting point of the aiming line), hold and drag...
