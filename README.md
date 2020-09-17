@@ -16,5 +16,5 @@ Playing the game...
  
  Notes:
   - Used Unity's primitive shapes as necessary game objects.
-  - There are 2 simple button in the game . One is restart button and the other one is quit button.
+  - There are 2 simple buttons in the game . One is restart button and the other one is quit button.
  
