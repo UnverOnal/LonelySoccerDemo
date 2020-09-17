@@ -15,6 +15,6 @@ Playing the game...
  - It is in the APK folder.
  
  Notes:
-  -Used Unity's primitive shapes as necessary game objects.
-  -There are 2 simple button in the game . One is restart button and the other one is quit button.
+  - Used Unity's primitive shapes as necessary game objects.
+  - There are 2 simple button in the game . One is restart button and the other one is quit button.
  
